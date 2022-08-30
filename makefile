@@ -4,7 +4,7 @@ install:
 		
 
 format:
-	block *.py
+	black *.py
 	
 
 lint:
